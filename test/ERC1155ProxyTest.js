@@ -1,3 +1,4 @@
+
 /* global artifacts, contract, it, assert */
 /* eslint-disable prefer-reflect */
 
